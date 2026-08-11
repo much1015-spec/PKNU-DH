@@ -13,5 +13,5 @@
 
 - `index.html` — 홈
 - `zootopia.html` — 주토피아 소개
-- `disney.html` — 디즈니+ 소개
-- `assets/zootopia-poster.png` — 제공받은 포스터 이미지
+- `disney.html` — 디즈니 소개
+- `zootopia-poster.png` — 제공받은 포스터 이미지 (최상위 폴더에 반드시 함께 업로드)
